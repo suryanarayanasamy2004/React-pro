@@ -1,0 +1,16 @@
+{
+  "exam": [
+    {
+      "id": "7911",
+      "studentName": "Surya",
+      "sub1": "78",
+      "sub2": "78",
+      "sub3": "90",
+      "sub4": "98",
+      "sub5": "99",
+      "total": 443,
+      "average": 88.6,
+      "percentage": 88.6
+    }
+  ]
+}
